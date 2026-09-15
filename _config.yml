@@ -8,43 +8,41 @@
 
 # Basic Site Settings
 locale                   : "en-US"
-site_theme               : "default" # The available themes options are "default", "air", "sunrise", "mint", "dirt" and "contrast"
-title                    : "Your Name / Site Title"
+site_theme               : "default"
+title                    : "Minghai Tang"
 title_separator          : "-"
-name                     : &name "Your Name"
-description              : &description "Your Name's academic portfolio"   # Update this with a general description of your site, this is the default if not overridden by a page
-url                      : https://academicpages.github.io # The base hostname & protocol for your site e.g. "https://[your GitHub username].github.io",
-                                                           # or if you already have some other page hosted on Github then use "https://[your GitHub username].github.io/[Your Repo Name]"
-baseurl                  : "" # the subpath of your site, e.g. "/blog"
-repository               : "academicpages/academicpages.github.io"
+name                     : &name "Minghai Tang"
+description              : &description "Academic website of Minghai Tang"
+url                      : "https://minghai-tang.github.io"
+baseurl                  : ""
+repository               : "Minghai-Tang/Minghai-Tang.github.io"
 
 # Site Author - The following control what appear as part of the author content on the side bar.
 #               If a field is blank the icon and link will not appear, otherwise it will be shown.
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
-  # Biographic information
-  avatar           : "profile.png"
-  name             : "Your Sidebar Name"
-  pronouns         : # example: "she/her"  
-  bio              : "Short biography for the left-hand sidebar"
-  location         : "Earth"
-  employer         : "Red Brick University"
-  uri              : # URL
-  email            : "none@example.org" 
+  avatar           : "minghai.jpg"
+  name             : "Minghai Tang"
+  pronouns         :
+  bio              : "PhD candidate working on developing porous Cu- and Ag-based materials for catalytic electrodes."
+  location         : "Berlin/Potsdam, Germany"
+  employer         : "TU Berlin / Helmholtz-Zentrum Berlin"
+  uri              :
+  email            : "minghai.tang@helmholtz-berlin.de"
 
   # Academic websites
-  academia         : # URL
-  arxiv            : # URL - Update with the correct link to your profile
-  googlescholar    : "https://scholar.google.com/citations?user=PS_CX0AAAAAJ"
-  inspire-hep      : # URL
-  impactstory      : # URL
-  orcid            : "https://orcid.org/yourorcidurl"
-  semantic         : # URL
-  ssrn             : # URL
+  academia         : 
+  arxiv            : 
+  googlescholar    : "https://scholar.google.com/citations?view_op=list_works&hl=zh-CN&user=43xWdcwAAAAJ&gmla=ANZ5fUOTpovEupyjKxGILJrkqEvR1QtHbyQ9TuRxSyQOS842Uu180eGZpm08Odjkf1M-yLAv5hdLpIMd5GfHUWOBzS4ekcaBXzZVlOOJBNy50tx32HY"
+  inspire-hep      : 
+  impactstory      : 
+  orcid            : "https://orcid.org/0009-0006-8681-8007"
+  semantic         : 
+  ssrn             : 
   pubmed           : "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
-  researchgate     : # URL
-  scopus           : # URL
-  zotero           : # URL
+  researchgate     : "https://www.researchgate.net/profile/Minghai-Tang?ev=prf_overview"
+  scopus           : 
+  zotero           : 
 
 
   # Repositories and software development
