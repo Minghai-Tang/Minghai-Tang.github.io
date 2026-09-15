@@ -47,16 +47,11 @@ Participated in two research projects commissioned by industrial and institution
 
 ## Research Interests
 
-- Porous materials and energy-absorbing structures
-- Energy materials
+- Porous materials and Energy materials
 - Computational mechanics
-- Data-driven materials design
-- Multiscale analysis
-- Multi-field coupling
-- Machine learning and physics-informed neural networks
 - Porous Cu/Ag electrodes for electrochemical CO₂ reduction
 
-## Selected Publications
+## Publications
 
 1. **Minghai Tang**, Lei Wang, Zhiqiang Xin, et al.  
    “High energy absorption design of porous metals using deep learning.”  
@@ -73,8 +68,6 @@ Participated in two research projects commissioned by industrial and institution
 4. Lei Wang, **Minghai Tang**, Donghui Yang, et al.  
    “Multi-objective optimization of lightweight, energy absorption, and heat transfer in gradient porous metals via deep learning and genetic algorithm.”  
    *Journal of Materials Research*, 40(23), 3336–3350, 2025.
-
-A complete publication list is available on the [Publications page](/publications/) and my [ORCID profile](https://orcid.org/0009-0006-8681-8007).
 
 ## Academic Service
 
@@ -96,7 +89,7 @@ Reviewer for:
 
 ## Technical Skills
 
-- **Computational mechanics:** Finite element method, peridynamics, and molecular dynamics
+- **Computational mechanics:** Finite element method
 - **Artificial intelligence:** Deep learning analysis of materials and mechanical problems
 - **Porous material fabrication:** Space-holder method and dealloying
-- **Material characterization:** X-ray tomography and scanning electron microscopy
+- **Material characterization:** X-ray tomography and SEM
