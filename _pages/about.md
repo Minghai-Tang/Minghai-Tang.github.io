@@ -7,17 +7,10 @@ redirect_from:
   - /about.html
 ---
 
-I am a PhD candidate at Technische Universität Berlin and a guest researcher at Helmholtz-Zentrum Berlin.
-
-I received my bachelor's and master's degrees in Engineering Mechanics from Hohai University.
-
-My research focuses on porous materials, computational mechanics, data-driven materials design, multi-field coupling, and porous Cu/Ag electrodes for electrochemical CO₂ reduction.
+I am a PhD student at TU Berlin and HZB, developing porous Cu- and Ag-based materials for catalytic electrodes. My research interests also include data-driven computational mechanics, materials science, and multiscale simulation of coupled material behavior and failure.
 
 ## Research Interests
 
-- Porous materials and energy-absorbing structures
-- Data-driven materials design
+- Porous materials and energy materials
 - Computational mechanics
-- Machine learning and physics-informed neural networks
-- Multi-field coupling and multiscale analysis
 - Porous Cu/Ag electrodes for electrochemical CO₂ reduction
